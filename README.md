@@ -21,6 +21,6 @@ Skills:  HTML / CSS / Bootstrap / WordPress / Canva Pro Design / Microsoft Offic
 [<img src='https://cdn-icons-png.flaticon.com/128/270/270798.png' alt='github' height='40'>](https://github.com/devjabedkhan) 
  [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504923.png?token=exp=1649963875~hmac=6dff3492606a649e2bed9c3128f51fe3' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjabedkhan/) 
  [<img src='https://cdn-icons-png.flaticon.com/128/1409/1409946.png' alt='instagram' height='40'>](https://www.instagram.com/devjabedkhan/) 
- [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504947.png?token=exp=1646941694~hmac=2daf24743ad8e7811110eb99ddba0b82' alt='twitter' height='40'>](https://twitter.com/@devjabedkhan) 
- [<img src='https://cdn-icons.flaticon.com/png/128/1927/premium/1927768.png?token=exp=1646941744~hmac=d96b6c651bd74ea7f5d2218a2060b55a' alt='website' height='40'>](https://developerjabedkhan.com/)  
+ [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504947.png?token=exp=1649964029~hmac=4a0475d161ded74484f083779c94a839' alt='twitter' height='40'>](https://twitter.com/@devjabedkhan) 
+ [<img src='https://cdn-icons.flaticon.com/png/128/3308/premium/3308395.png?token=exp=1649964097~hmac=435d9137d3b6bb944691c05a206bb7d8' alt='website' height='40'>](https://developerjabedkhan.com/)  
 
