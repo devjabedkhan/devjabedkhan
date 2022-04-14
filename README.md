@@ -19,7 +19,7 @@ Skills:  HTML / CSS / Bootstrap / WordPress / Canva Pro Design / Microsoft Offic
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabedkhan2002)  
 
 [<img src='https://cdn-icons-png.flaticon.com/128/270/270798.png' alt='github' height='40'>](https://github.com/devjabedkhan) 
- [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504923.png?token=exp=1646941590~hmac=1b55dac626a80837af66695edb7ba147' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjabedkhan/) 
+ [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504923.png?token=exp=1649963875~hmac=6dff3492606a649e2bed9c3128f51fe3' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjabedkhan/) 
  [<img src='https://cdn-icons-png.flaticon.com/128/1409/1409946.png' alt='instagram' height='40'>](https://www.instagram.com/devjabedkhan/) 
  [<img src='https://cdn-icons.flaticon.com/png/128/2504/premium/2504947.png?token=exp=1646941694~hmac=2daf24743ad8e7811110eb99ddba0b82' alt='twitter' height='40'>](https://twitter.com/@devjabedkhan) 
  [<img src='https://cdn-icons.flaticon.com/png/128/1927/premium/1927768.png?token=exp=1646941744~hmac=d96b6c651bd74ea7f5d2218a2060b55a' alt='website' height='40'>](https://developerjabedkhan.com/)  
